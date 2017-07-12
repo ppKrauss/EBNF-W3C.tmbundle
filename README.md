@@ -1,7 +1,6 @@
 # EBNF-W3C TextMate Bundle
 
-This [TextMate](https://github.com/textmate/textmate) bundle adds syntax highlighting support for the [Extended Backus-Naur Form](https://en.wikipedia.org/wiki/Extended_Backus–Naur_Form) of the W3C dialiec, **EBNF-W3C** (ref. ).
-the **"EBNF-W3C"** (ref. [TR/xml/#sec-notation](https://www.w3.org/TR/xml/#sec-notation), [TR/xquery/#nt-bnf](https://www.w3.org/TR/xquery/#nt-bnf) and [github/linguist issue#3075](https://github.com/github/linguist/issues/3075#issuecomment-314835300)).
+This [TextMate](https://github.com/textmate/textmate) bundle adds syntax highlighting support for the [Extended Backus-Naur Form](https://en.wikipedia.org/wiki/Extended_Backus–Naur_Form) of the W3C dialiec, <br/>**EBNF-W3C** (ref. [TR/xml/#sec-notation](https://www.w3.org/TR/xml/#sec-notation), [TR/xquery/#nt-bnf](https://www.w3.org/TR/xquery/#nt-bnf) and [github/linguist issue#3075](https://github.com/github/linguist/issues/3075#issuecomment-314835300)).
 
 ## Credits and motivation
 
